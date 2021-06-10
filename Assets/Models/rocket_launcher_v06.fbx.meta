@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 0462d7dd4efd8994a9682d68a5aff4c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: rocket_cage_body_01
+    100002: rocket_cage_body_01 1
+    100004: rocket_cage_ROT_Control_01
+    100006: rocket_cage_ROT_Control_02
+    100008: rocket_launcher_body
+    100010: //RootNode
+    100012: rockets_1
+    100014: rockets_1 1
+    100016: rockets_10
+    100018: rockets_2
+    100020: rockets_2 1
+    100022: rockets_3
+    100024: rockets_3 1
+    100026: rockets_4
+    100028: rockets_4 1
+    100030: rockets_5
+    100032: rockets_5 1
+    100034: rockets_6
+    100036: rockets_6 1
+    100038: rockets_7
+    100040: rockets_8
+    100042: rockets_9
+    400000: rocket_cage_body_01
+    400002: rocket_cage_body_01 1
+    400004: rocket_cage_ROT_Control_01
+    400006: rocket_cage_ROT_Control_02
+    400008: rocket_launcher_body
+    400010: //RootNode
+    400012: rockets_1
+    400014: rockets_1 1
+    400016: rockets_10
+    400018: rockets_2
+    400020: rockets_2 1
+    400022: rockets_3
+    400024: rockets_3 1
+    400026: rockets_4
+    400028: rockets_4 1
+    400030: rockets_5
+    400032: rockets_5 1
+    400034: rockets_6
+    400036: rockets_6 1
+    400038: rockets_7
+    400040: rockets_8
+    400042: rockets_9
+    2100000: lambert2
+    2300000: rocket_cage_body_01
+    2300002: rocket_cage_body_01 1
+    2300004: rocket_launcher_body
+    2300006: rockets_1
+    2300008: rockets_1 1
+    2300010: rockets_10
+    2300012: rockets_2
+    2300014: rockets_2 1
+    2300016: rockets_3
+    2300018: rockets_3 1
+    2300020: rockets_4
+    2300022: rockets_4 1
+    2300024: rockets_5
+    2300026: rockets_5 1
+    2300028: rockets_6
+    2300030: rockets_6 1
+    2300032: rockets_7
+    2300034: rockets_8
+    2300036: rockets_9
+    3300000: rocket_cage_body_01
+    3300002: rocket_cage_body_01 1
+    3300004: rocket_launcher_body
+    3300006: rockets_1
+    3300008: rockets_1 1
+    3300010: rockets_10
+    3300012: rockets_2
+    3300014: rockets_2 1
+    3300016: rockets_3
+    3300018: rockets_3 1
+    3300020: rockets_4
+    3300022: rockets_4 1
+    3300024: rockets_5
+    3300026: rockets_5 1
+    3300028: rockets_6
+    3300030: rockets_6 1
+    3300032: rockets_7
+    3300034: rockets_8
+    3300036: rockets_9
+    4300000: rockets_1
+    4300002: rockets_2
+    4300004: rockets_3
+    4300006: rockets_4
+    4300008: rockets_5
+    4300010: rockets_6
+    4300012: rocket_cage_body_01
+    4300014: rockets_1
+    4300016: rockets_2
+    4300018: rockets_3
+    4300020: rockets_4
+    4300022: rockets_5
+    4300024: rockets_6
+    4300026: rocket_cage_body_01
+    4300028: rocket_launcher_body
+    4300030: rockets_7
+    4300032: rockets_8
+    4300034: rockets_9
+    4300036: rockets_10
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

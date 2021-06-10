@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: f8e9598cc538ecf41b4687d22b53ade2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _1_base
+    100002: //RootNode
+    100004: base_downpart_01
+    100006: body_01
+    100008: chaingun_holder_
+    100010: chaingun_holder_1
+    100012: chaingun_holder_2
+    100014: chaingun_holder_3
+    100016: chaingun_Rotation_Control_01
+    100018: chaingun_Rotation_Control_02
+    100020: chaingun_tube_
+    100022: chaingun_tube_1
+    100024: chaingun_tube_10
+    100026: chaingun_tube_11
+    100028: chaingun_tube_2
+    100030: chaingun_tube_3
+    100032: chaingun_tube_4
+    100034: chaingun_tube_5
+    100036: chaingun_tube_6
+    100038: chaingun_tube_7
+    100040: chaingun_tube_8
+    100042: chaingun_tube_9
+    100044: light_01
+    100046: light_02
+    100048: light_03
+    100050: light_04
+    100052: light_body_01
+    100054: light_body_01 1
+    100056: light_body_01 2
+    100058: light_body_01 3
+    100060: light_source_01
+    100062: light_source_01 1
+    100064: light_source_01 2
+    100066: light_source_01 3
+    100068: roll_1_rotation_control
+    100070: roll_2_rotation_control
+    100072: roll_3_rotation_control
+    100074: roll_4_rotation_control
+    100076: roll_holder_01
+    100078: roll_holder_01 1
+    100080: roll_holder_01 2
+    100082: roll_holder_01 3
+    100084: roll_holder_02
+    100086: roll_holder_02 1
+    100088: roll_holder_02 2
+    100090: roll_holder_02 3
+    100092: Rotater_base_01
+    100094: Rotater_body_01
+    100096: Rotater_Rotation_Control_01
+    100098: Rotater_Up_Down_Control
+    100100: shield_generator_01
+    100102: sphere_01
+    100104: sphere_01 1
+    100106: sphere_01 2
+    100108: sphere_01 3
+    400000: _1_base
+    400002: //RootNode
+    400004: base_downpart_01
+    400006: body_01
+    400008: chaingun_holder_
+    400010: chaingun_holder_1
+    400012: chaingun_holder_2
+    400014: chaingun_holder_3
+    400016: chaingun_Rotation_Control_01
+    400018: chaingun_Rotation_Control_02
+    400020: chaingun_tube_
+    400022: chaingun_tube_1
+    400024: chaingun_tube_10
+    400026: chaingun_tube_11
+    400028: chaingun_tube_2
+    400030: chaingun_tube_3
+    400032: chaingun_tube_4
+    400034: chaingun_tube_5
+    400036: chaingun_tube_6
+    400038: chaingun_tube_7
+    400040: chaingun_tube_8
+    400042: chaingun_tube_9
+    400044: light_01
+    400046: light_02
+    400048: light_03
+    400050: light_04
+    400052: light_body_01
+    400054: light_body_01 1
+    400056: light_body_01 2
+    400058: light_body_01 3
+    400060: light_source_01
+    400062: light_source_01 1
+    400064: light_source_01 2
+    400066: light_source_01 3
+    400068: roll_1_rotation_control
+    400070: roll_2_rotation_control
+    400072: roll_3_rotation_control
+    400074: roll_4_rotation_control
+    400076: roll_holder_01
+    400078: roll_holder_01 1
+    400080: roll_holder_01 2
+    400082: roll_holder_01 3
+    400084: roll_holder_02
+    400086: roll_holder_02 1
+    400088: roll_holder_02 2
+    400090: roll_holder_02 3
+    400092: Rotater_base_01
+    400094: Rotater_body_01
+    400096: Rotater_Rotation_Control_01
+    400098: Rotater_Up_Down_Control
+    400100: shield_generator_01
+    400102: sphere_01
+    400104: sphere_01 1
+    400106: sphere_01 2
+    400108: sphere_01 3
+    2100000: lambert4
+    2100002: lambert1
+    2100004: lambert5
+    2100006: lambert6
+    2300000: base_downpart_01
+    2300002: body_01
+    2300004: chaingun_holder_
+    2300006: chaingun_holder_1
+    2300008: chaingun_holder_2
+    2300010: chaingun_holder_3
+    2300012: chaingun_tube_
+    2300014: chaingun_tube_1
+    2300016: chaingun_tube_10
+    2300018: chaingun_tube_11
+    2300020: chaingun_tube_2
+    2300022: chaingun_tube_3
+    2300024: chaingun_tube_4
+    2300026: chaingun_tube_5
+    2300028: chaingun_tube_6
+    2300030: chaingun_tube_7
+    2300032: chaingun_tube_8
+    2300034: chaingun_tube_9
+    2300036: light_body_01
+    2300038: light_body_01 1
+    2300040: light_body_01 2
+    2300042: light_body_01 3
+    2300044: light_source_01
+    2300046: light_source_01 1
+    2300048: light_source_01 2
+    2300050: light_source_01 3
+    2300052: roll_holder_01
+    2300054: roll_holder_01 1
+    2300056: roll_holder_01 2
+    2300058: roll_holder_01 3
+    2300060: roll_holder_02
+    2300062: roll_holder_02 1
+    2300064: roll_holder_02 2
+    2300066: roll_holder_02 3
+    2300068: Rotater_base_01
+    2300070: Rotater_body_01
+    2300072: shield_generator_01
+    2300074: sphere_01
+    2300076: sphere_01 1
+    2300078: sphere_01 2
+    2300080: sphere_01 3
+    3300000: base_downpart_01
+    3300002: body_01
+    3300004: chaingun_holder_
+    3300006: chaingun_holder_1
+    3300008: chaingun_holder_2
+    3300010: chaingun_holder_3
+    3300012: chaingun_tube_
+    3300014: chaingun_tube_1
+    3300016: chaingun_tube_10
+    3300018: chaingun_tube_11
+    3300020: chaingun_tube_2
+    3300022: chaingun_tube_3
+    3300024: chaingun_tube_4
+    3300026: chaingun_tube_5
+    3300028: chaingun_tube_6
+    3300030: chaingun_tube_7
+    3300032: chaingun_tube_8
+    3300034: chaingun_tube_9
+    3300036: light_body_01
+    3300038: light_body_01 1
+    3300040: light_body_01 2
+    3300042: light_body_01 3
+    3300044: light_source_01
+    3300046: light_source_01 1
+    3300048: light_source_01 2
+    3300050: light_source_01 3
+    3300052: roll_holder_01
+    3300054: roll_holder_01 1
+    3300056: roll_holder_01 2
+    3300058: roll_holder_01 3
+    3300060: roll_holder_02
+    3300062: roll_holder_02 1
+    3300064: roll_holder_02 2
+    3300066: roll_holder_02 3
+    3300068: Rotater_base_01
+    3300070: Rotater_body_01
+    3300072: shield_generator_01
+    3300074: sphere_01
+    3300076: sphere_01 1
+    3300078: sphere_01 2
+    3300080: sphere_01 3
+    4300000: body_01
+    4300002: base_downpart_01
+    4300004: roll_holder_01
+    4300006: roll_holder_02
+    4300008: sphere_01
+    4300010: roll_holder_01
+    4300012: roll_holder_02
+    4300014: sphere_01
+    4300016: roll_holder_01
+    4300018: roll_holder_02
+    4300020: sphere_01
+    4300022: roll_holder_01
+    4300024: roll_holder_02
+    4300026: sphere_01
+    4300028: light_body_01
+    4300030: light_source_01
+    4300032: light_body_01
+    4300034: light_source_01
+    4300036: light_body_01
+    4300038: light_source_01
+    4300040: light_body_01
+    4300042: light_source_01
+    4300044: Rotater_base_01
+    4300046: Rotater_body_01
+    4300048: shield_generator_01
+    4300050: chaingun_tube_
+    4300052: chaingun_tube_1
+    4300054: chaingun_tube_2
+    4300056: chaingun_tube_3
+    4300058: chaingun_tube_4
+    4300060: chaingun_tube_5
+    4300062: chaingun_holder_
+    4300064: chaingun_holder_1
+    4300066: chaingun_tube_6
+    4300068: chaingun_tube_7
+    4300070: chaingun_tube_8
+    4300072: chaingun_tube_9
+    4300074: chaingun_tube_10
+    4300076: chaingun_tube_11
+    4300078: chaingun_holder_3
+    4300080: chaingun_holder_2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
